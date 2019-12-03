@@ -34,4 +34,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Patients
 
-[doctors here](https://qavirtru1.github.io/patients.html).
+[patients here](https://qavirtru1.github.io/patients.html).
