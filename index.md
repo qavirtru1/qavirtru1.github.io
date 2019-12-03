@@ -10,11 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-
-# 4242-4242-4242-4242
-# 111-22-33333
-
-
 - Bulleted
 - List
 
